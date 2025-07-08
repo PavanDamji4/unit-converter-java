@@ -31,7 +31,7 @@ It helps users easily convert between **Length**, **Weight**, and **Temperature*
 
 unit-converter-java/
 │
-├── Main.java # Contains all logic and GUI code
+├── Main.java         # Contains all logic and GUI code
 └── README.md
 
 
@@ -49,9 +49,13 @@ unit-converter-java/
 
 ** No external libraries required — built with core Java only.
 
-🙌 Feedback & Contributions
-If you have ideas to improve this project (like adding Currency conversion or Dark Mode UI), feel free to fork or suggest!
-Open to feedback from the community!
+---
+
+## 🙌 Feedback & Contributions
+
+If you have ideas to improve this project (like adding Currency conversion or Dark Mode UI), feel free to fork or suggest!  
+I'm open to feedback from the developer community!
+
 
 ## 🔗 Connect with Me
 
